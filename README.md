@@ -86,7 +86,7 @@ If you'd like to contribute to this project, please follow these steps:
   ## Owner
   Atul Solanki
 
-### Have a look at the project via this link : 
+### Have a look at the project via this link : https://todo-list-react-app-zeta.vercel.app/
 
 ## Preview of project
-![homepage](https://github.com/atul-solanki/to_do_react_app/assets/119615683/6af26660-59cc-4277-954e-e0661cc0b0ca)
+![homepage](https://github.com/atul-solanki/todo_react_app/assets/119615683/fe26bc04-56fb-4715-ac09-dc4bc5c4cd9e)
